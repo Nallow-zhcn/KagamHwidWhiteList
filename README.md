@@ -1,0 +1,2 @@
+# KagamHwidWhiteList
+check hwid
